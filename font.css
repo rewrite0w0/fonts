@@ -1,0 +1,433 @@
+@font-face {
+  font-family: "k01";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k001.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k02";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k002.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k03";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k003.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k04";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k004.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k05";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k005.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k06";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k006.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k07";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k007.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k08";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k008.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k09";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k009.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k10";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k010.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k11";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k011.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k12";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k012.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k13";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k013.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k14";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k014.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k15";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k015.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k16";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k016.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k17";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k017.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k18";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k018.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k19";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k019.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k20";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k020.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k21";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k021.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k22";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k022.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k23";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k023.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k24";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k024.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k25";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k025.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k26";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k026.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k27";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k027.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k28";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k028.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k29";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k029.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k30";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k030.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k31";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k031.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k32";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k032.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k33";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k033.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k34";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k034.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "k35";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/k035.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+/*  */
+
+@font-face {
+  font-family: "e01";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/e001.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "e02";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/e002.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "e03";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/e003.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "e04";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/e004.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "e05";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/e005.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "e06";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/e006.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "e07";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/e007.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "e08";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/e008.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "e09";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/e009.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "e10";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/e010.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "e11";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/e011.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "e12";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/e012.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "e13";
+  src: url("https://cdn.jsdelivr.net/gh/rewrite0w0/fonts@master/e013.woff")
+    format("woff");
+  font-weight: normal;
+  font-weight: 250;
+  font-style: normal;
+}
